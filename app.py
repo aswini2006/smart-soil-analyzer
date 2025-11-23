@@ -67,4 +67,3 @@ else:
 if st.checkbox("Show sample training data"):
     df = pd.read_csv(os.path.join("data", "soil_data_small.csv"))
     st.dataframe(df)
-s

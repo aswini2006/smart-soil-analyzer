@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.venv/
+soil_model.joblib
+*.pyc
+.DS_Store
